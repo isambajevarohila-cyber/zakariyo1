@@ -1,5 +1,8 @@
 {
-  "name": "Modern Dino Quest",
-  "description": "A modern, high-fidelity reimagining of the classic Dino runner with a special surprise at 1000 points.",
-  "requestFramePermissions": []
+  "name": "Zakariyo.uz",
+  "description": "Modern Telegram-style messaging app with 1-on-1 chat and video calling features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
